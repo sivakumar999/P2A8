@@ -1,0 +1,13 @@
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.exe.config
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.exe
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.pdb
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.dll
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.SqlServer.dll
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.xml
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.SqlServer.xml
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.CopyComplete
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.exe
+M:\Simplilearn\mphasis\Phase-2\day-8\Assign8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.pdb
